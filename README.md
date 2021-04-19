@@ -32,7 +32,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.tenor.com/images/57ad40aee94c2f0919736b3c83171781/tenor.gif" />
 <p align="center">
-  <h3> Living on Earth for 22 years old for being IT Security Enthusiast.</h3>
+  <h3> Living on Earth for 22 years old for being IT Security Geek.</h3>
 </p>
 
  - 🥀 Learning To Pwned Your Devices :smirk_cat:
@@ -41,7 +41,7 @@
    
  - 🔭 Mr. Robot FanBoi, because there is no patch for Human Stupidity!!! 😼
 
- - 🛸 Into: Music & Aviation, I love shooting stars too~
+ - 🛸 Into: Music and Aviation, I love shooting stars too~
  
  - I do #InfoSec and much of every thing about #CyberSpace. :heart:
  
