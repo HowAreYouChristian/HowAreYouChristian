@@ -83,7 +83,6 @@
 
 ### - Portal Sites :spider_web:
 
-<!--
 <p align="center">
   <a href="https://s.id/howareyouchristian">
     <img src="https://img.icons8.com/wired/512/000000/domain.png"> 
