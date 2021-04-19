@@ -35,7 +35,7 @@
   <h3> Living on Earth for 22 years old for being IT Security Enthusiast from Indonesia.</h3>
 </p>
 
- - 🥀 Learning To Pwned Your Devices
+ - 🥀 Learning To Pwned Your Devices :smirk_cat:
  
  - <i>With; C, Python, Ruby and 700 others.</i>
    
