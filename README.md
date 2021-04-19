@@ -108,4 +108,4 @@
    
 <br />
 
-<h1 align='center'>⚡️<i>Proud :indonesia:</i>!<i>Bangga Berbudaya.</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Proud :indonesia:</i>! <i>Bangga Berbudaya.</i>⚡️</h1>
