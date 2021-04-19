@@ -90,7 +90,7 @@
 </p>
 
 
-### - Podcast voor Lyfe ⚡️
+### - Podcast voor Lyfe :heart_decoration:
 
 <p align="center">
   <a href="https://s.id/howareyouchristian">
@@ -109,4 +109,4 @@
    
 <br />
 
-<h1 align='center'>⚡️<i>Proud :indonesia:</i>! <i>Bangga Berbudaya.</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Proud :indonesia:</i> :heavy_heart_exclamation: <i>Bangga Berbudaya.</i>⚡️</h1>
