@@ -93,6 +93,7 @@
 ### - Podcast voor Lyfe ⚡️
 
 <p align="center">
+  <a href="https://s.id/howareyouchristian">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
 </p>
 
