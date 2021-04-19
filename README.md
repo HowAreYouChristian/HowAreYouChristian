@@ -25,7 +25,7 @@
  </p>
  
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>:cancer:I don’t trust people who don’t write 'SQL' queries in uppercase️:cancer:</i>
   </h5>
  
  
@@ -110,4 +110,3 @@
 <br />
 
 <h1 align='center'>⚡️<i>Proud :indonesia:</i>!<i>Bangga Berbudaya.</i>⚡️</h1>
-
