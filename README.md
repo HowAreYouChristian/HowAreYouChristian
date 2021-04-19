@@ -25,12 +25,12 @@
  </p>
  
  <h5 align="center">
-   <i>:cancer:I don’t trust people who don’t write 'SQL' queries in uppercase️:cancer:</i>
+   <i>:cancer: I don’t trust people who don’t write 'SQL' queries in uppercase️ :cancer:</i>
   </h5>
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.tenor.com/images/57ad40aee94c2f0919736b3c83171781/tenor.gif" />
+<img align="right" height="330px" width="500px" alt="GIF" src="https://media.tenor.com/images/57ad40aee94c2f0919736b3c83171781/tenor.gif" />
 <p align="center">
   <h3> Living on Earth for 22 years old for being IT Security Geek.</h3>
 </p>
