@@ -85,7 +85,7 @@
 
 <p align="center">
   <a href="https://s.id/howareyouchristian">
-    <img src="https://img.icons8.com/wired/512/000000/domain.png"> 
+    <img src="https://img.icons8.com/wired/200/000000/domain.png"> 
   </a>
 </p>
 
