@@ -9,8 +9,8 @@
 <p align='center'>
    <a href="https://linkedin.com/in/ChristianRonaldo"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/HowAreYouChrist"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagr.am/HowAreYouChristian"><img height="30" src="https://e7.pngegg.com/pngimages/924/793/png-clipart-instagram-logo-computer-icons-facebook-instagram-text-logo.png"></a>&nbsp;&nbsp;
-<a href="https://fb.me/HowAreYouChristian"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagr.am/HowAreYouChristian"><img height="30" src="https://img.icons8.com/doodle/512/000000/instagram-new.png"></a>&nbsp;&nbsp;
+<a href="https://fb.me/HowAreYouChristian"><img height="30" src="https://img.icons8.com/doodle/512/000000/facebook-new.png"></a>&nbsp;&nbsp;
  <a href="https://buymeacoffee.com/HowAreYouChrist"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
 
@@ -37,13 +37,13 @@
 
  - 🥀 Learning To Pwned Your Devices
  
- - <i>with C, Python, Ruby and 700 others.</i>
+ - <i>With; C, Python, Ruby and 700 others.</i>
    
  - 🔭 Mr. Robot FanBoi, because there is no patch for Human Stupidity!!! 😼
 
- - 🛸 Into: Music & Aviation, I love shooting stars too.
+ - 🛸 Into: Music & Aviation, I love shooting stars too~
  
- - I do #InfoSec and much of every thing about #CyberSpace :heart:
+ - I do #InfoSec and much of every thing about #CyberSpace. :heart:
  
  - LIFE it's AWESOME!
  
@@ -57,14 +57,14 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=howareyouchristian&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
 
 <br />
 
-### - Languages & Tools That I Used To Craft Magic
+### - Languages & Tools That I Used To Craft Magic :mage_man:
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -84,16 +84,16 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<!--
-### - Blogs 🌱
+
+### - Portal Sites 🌱
 -->
 <!--
 <p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+  <a href="https://s.id/howareyouchristian">
+    <img src="https://img.icons8.com/wired/512/000000/domain.png"> 
   </a>
 </p>
--->
+
 
 ### - Podcast voor Lyfe ⚡️
 
@@ -113,5 +113,5 @@
    
 <br />
 
-<h1 align='center'>⚡️<i>Proud :indonesia:! Bangga Berbudaya.</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Proud :indonesia:</i>!<i>Bangga Berbudaya.</i>⚡️</h1>
 
