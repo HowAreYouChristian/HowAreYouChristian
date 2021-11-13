@@ -32,20 +32,20 @@
 <br />
 <img align="right" height="330px" width="500px" alt="GIF" src="https://media.tenor.com/images/57ad40aee94c2f0919736b3c83171781/tenor.gif" />
 <p align="center">
-  <h3> Living on Earth for 22 years old for being IT Security Geek.</h3>
+  <h3> Living on Earth for 23 years old for being IT Security Geek.</h3>
 </p>
 
  - 🥀 Learning To Pwned Your Devices :smirk_cat:
  
  - <i>With; C, Python, Ruby and others.</i>
    
- - 🔭 Mr. Robot FanBoi, because there is no patch for Human Stupidity!!! 😼
+ - 🔭 Mr. Robot FanBoi, because there is no patch for Human Stupidity!! 😼
 
  - 🛸 Into: Music and Aviation, I love shooting stars too~
  
- - I do #InfoSec and much of every thing about #CyberSpace. :heart:
+ - I do exploring the #CYBERSPACE, and much of every thing about #INFOSEC. :heart:
  
- - LIFE it's AWESOME!
+ - Anyway, LIFE it's AWESOME!
  
  
  <p align="center">
@@ -73,7 +73,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
@@ -81,7 +80,7 @@
 </p>
 
 
-### - Portal Sites :spider_web:
+### - Sites Portal :spider_web:
 
 <p align="center">
   <a href="https://s.id/howareyouchristian">
