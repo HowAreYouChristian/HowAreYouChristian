@@ -37,7 +37,7 @@
 
  - 🥀 Learning To Pwned Your Devices :smirk_cat:
  
- - <i>With; C, Python, Ruby and 700 others.</i>
+ - <i>With; C, Python, Ruby and others.</i>
    
  - 🔭 Mr. Robot FanBoi, because there is no patch for Human Stupidity!!! 😼
 
@@ -109,4 +109,4 @@
    
 <br />
 
-<h1 align='center'>⚡️<i>Proud :indonesia:</i> :heavy_heart_exclamation: <i>Bangga Berbudaya.</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Proud :indonesia:</i> :heavy_heart_exclamation: <i>Bangga Berbangsa Berbudaya.</i>⚡️</h1>
