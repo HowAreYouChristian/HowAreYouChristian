@@ -37,13 +37,13 @@
 
  - 🥀 Learning To Pwned Your Devices :smirk_cat:
  
- - <i>With; C, Python, Ruby and others.</i>
+ - <i>With; Metasploit, CobaltStrike, and others.</i>
    
  - 🔭 Mr. Robot FanBoi, because there is no patch for Human Stupidity!! 😼
 
  - 🛸 Into: Music and Aviation, I love shooting stars too~
  
- - I do exploring the #CYBERSPACE, and much of every thing about #INFOSEC. :heart:
+ - I do exploring the #CYBERSPACE and much of everything about #INFOSEC. :heart:
  
  - Anyway, LIFE it's AWESOME!
  
